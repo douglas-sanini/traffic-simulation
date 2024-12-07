@@ -33,3 +33,5 @@ while running:
     pygame.time.Clock().tick(60)  # Limit frame rate to 60 FPS
 
 pygame.quit()
+
+# test
